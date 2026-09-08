@@ -1,6 +1,6 @@
-def main():
-    print("Hello, World!")
+#include <stdio.h>
 
-
-if __name__ == "__main__":
-    main()
+int main() {
+    printf("Hello, World!\n");
+    return 0;
+}
